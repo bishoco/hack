@@ -31,7 +31,7 @@ var const_lines = [
   { id: 5, text: 'instructions are located in an envelope'},
   { id: 6, text: 'taped under the desk in your fathers office'}
 ];
-var congrats_message = 'congratulations. your present is located in ???'
+var congrats_message = 'success. your present is located in the closet by the front door'
 
 var lines= [];
 
@@ -39,9 +39,10 @@ var inputs= [];
 
 var codes = [
   { id: 1, text: '1607' },
-  { id: 2, text: '2222' },
-  { id: 3, text: '3333' },
-  { id: 4, text: '4444' }
+  { id: 2, text: '1627' },
+  { id: 3, text: '1806' },
+  { id: 4, text: '2102' },
+  { id: 5, text: '1701' }
 ];
 
 async function addLines(app) {
