@@ -38,7 +38,7 @@ var lines= [];
 var inputs= [];
 
 var codes = [
-  { id: 1, text: '1111' },
+  { id: 1, text: '1607' },
   { id: 2, text: '2222' },
   { id: 3, text: '3333' },
   { id: 4, text: '4444' }
@@ -97,6 +97,7 @@ export default {
   -moz-osx-font-smoothing: grayscale;
   text-align: center;
   color: #4ceb34;
+  font-size: 14px;;
   background-color: black;
 }
 </style>
